@@ -19,8 +19,8 @@ const b16 = s => Uint8Array.from(s.replace(/-/g, '').match(/.{2}/g).map(x => par
 const init = env => {
   if (C.done) return C;
   const m = {
-    I: ['ID', '123456'],
-    U: ['UUID', '5aba5b77-48eb-4ae2-b60d-5bfee7ac169e'],
+    I: ['ID', 'xiagefei120'],
+    U: ['UUID', '5b902fa6-c34f-4857-86d3-8086e77012a6'],
     P: ['IP', ['1.1.1.1']],
     T: ['TXT', []],
     R: ['PROXYIP', 'sjc.o00o.ooo:443'],
