@@ -23,7 +23,7 @@ const init = env => {
     U: ['UUID', '5b902fa6-c34f-4857-86d3-8086e77012a6'],
     P: ['IP', ['1.1.1.1']],
     T: ['TXT', []],
-    R: ['PROXYIP', 'sjc.o00o.ooo:443'],
+    R: ['PROXYIP', 'proxy.xxxxxxxx.tk:50001'],
     F: ['启用反代功能', true],
     N: ['NAT64', false],
     N2: ['我的节点名字', '狂暴']
